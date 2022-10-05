@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\windo\Desktop\OpenCV_Project\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\windo\Desktop\OpenCV_Project\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\windo\Desktop\OpenCV_Project\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(43,59): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(43,41): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(53,32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(53,25): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(73,59): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(73,41): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(87,66): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(87,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(104,59): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(104,41): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(125,73): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\windo\Desktop\OpenCV_Project\main.cpp(125,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OpenCV_Project.vcxproj -> C:\Users\windo\Desktop\OpenCV_Project\x64\Debug\OpenCV_Project.exe
